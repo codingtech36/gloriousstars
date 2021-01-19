@@ -1,0 +1,112 @@
+body{
+    background: rgb(180, 148, 148);
+    color: #fff;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+ul{
+    padding:0;
+}
+#container{
+    background: #333;
+    width: 80%;
+    margin: 30px;
+    overflow: hidden;
+    padding: 10px;
+
+}
+
+.logo h1{
+    color: aqua;
+}
+
+#nav{
+    height:40px;
+    background: brown;
+}
+
+#nav ul{
+    padding-top: 10px;
+    padding-right:px;
+    padding-left: 490PX;
+}
+
+#nav li{
+    list-style: none;
+    float: left;
+    padding-left: 15px;
+
+}
+
+#nav .active{
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+}
+#nav .logout{
+    color: rgb(241, 24, 24);
+    border: 1px solid rgb(0, 12, 255);
+    padding: 5px;
+    border-radius: 40px;
+    border-width: 6px;
+    background-color:black;
+    font-weight: bold;
+}
+#nav .login{
+    color: rgb(9, 245, 9);
+    border: darkgrey; 
+}
+#nav .register{
+    color: blue;
+}
+
+.logobrand{
+    height: 40px;
+    cursor: pointer;
+}
+
+#footer{
+    color: aqua;
+    text-align: center;
+    margin-bottom:10px;
+    background-color: brown;
+}
+
+#brief-history h3{
+    width: 30%;
+    padding: 10px;
+    color: aqua;
+
+}
+.emp{
+    font-family: sans-serif;
+    color: rgb(240, 60, 54);
+    font-style:italic;
+    font-weight: bold;
+    
+}
+input, textarea{
+    width:auto;
+    padding: 5px;
+    padding-bottom: 15p
+}
+input, name{
+    color:darkgreen;
+    background-color: rgb(245,
+    
+    237, 237);
+}
+
+
+.ser
+v a{
+
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+}
+.serv h4{
+    color: rgb(0, 255, 255);
+    margin-bottom: 10p
+}
